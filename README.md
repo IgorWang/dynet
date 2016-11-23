@@ -7,3 +7,19 @@ Read the [documentation](http://dynet.readthedocs.io/en/latest/) to get started,
 
 * **Latest Code:** Can be found on the github page master branch.
 * **Latest Release:** [v1.0-rc1](https://github.com/clab/dynet/releases/tag/v1.0-rc1)
+
+## 源码阅读
+
+Fork this project for read source code and understand basic deeplearning
+framework implementation with C++.
+
+I think it's like other computation graph framework (Tensorflow, MXNET...).
+There are some fundamentally elements includes computation Nodes, Operations, 
+Expression, Parameter...
+
+### Examples
+
+finished:
+- XOR
+
+
